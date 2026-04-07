@@ -1,0 +1,69 @@
+{
+  "map_2_layer_1": {
+    "fileNames": [
+      "Maptest4.png"
+    ],
+    "name": "Maptest4",
+    "scrollX": 0,
+    "scrollY": 0,
+    "positionX": 0,
+    "positionY": 488,
+    "fixToMap": true,
+    "opacity": 255,
+    "blendMode": 0,
+    "priority": 2,
+    "visible": true,
+    "layer": 1,
+    "occlusion": false,
+    "occlusionRegion": "auto",
+    "animationSpeed": 10,
+    "seamless": false,
+    "parallaxDepthX": 1,
+    "parallaxDepthY": 1
+  },
+  "map_2_painted_tiles": [],
+  "map_4_layer_1": {
+    "fileNames": [
+      "Maptest4.png"
+    ],
+    "name": "Maptest4",
+    "scrollX": 0,
+    "scrollY": 0,
+    "positionX": -3,
+    "positionY": 5,
+    "fixToMap": true,
+    "opacity": 255,
+    "blendMode": 0,
+    "priority": 1,
+    "visible": true,
+    "layer": 1,
+    "occlusion": false,
+    "occlusionRegion": "auto",
+    "animationSpeed": 10,
+    "seamless": false,
+    "parallaxDepthX": 1,
+    "parallaxDepthY": 1
+  },
+  "map_4_painted_tiles": [],
+  "map_3_painted_tiles": [],
+  "map_3_layer_2": {
+    "fileNames": [],
+    "name": "Layer 1",
+    "scrollX": 0,
+    "scrollY": 0,
+    "positionX": 0,
+    "positionY": 0,
+    "fixToMap": true,
+    "opacity": 255,
+    "blendMode": 0,
+    "priority": 1,
+    "visible": true,
+    "layer": 2,
+    "occlusion": false,
+    "occlusionRegion": "auto",
+    "animationSpeed": 10,
+    "seamless": false,
+    "parallaxDepthX": 1,
+    "parallaxDepthY": 1
+  }
+}

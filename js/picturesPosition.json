@@ -1,0 +1,171 @@
+{
+  "maps": {
+    "map_3": {
+      "3_ImportedAssets/Art_UI/0_Main Menu/Main_Menu_Box_Big": {
+        "x": 644.462,
+        "y": 406
+      },
+      "4_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 373.8975,
+        "y": 356.6
+      },
+      "5_ImportedAssets/Art_UI/0_Main Menu/Tales_Of_Yrda_Logo": {
+        "x": 661.4636325585566,
+        "y": 292.7209889339097,
+        "animation": "left",
+        "frames": 30,
+        "outAnimation": "moveLeft",
+        "outFrames": 30
+      },
+      "6_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 236.80618417193045,
+        "y": 407.6458206984035
+      },
+      "10_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 240.33618417193046,
+        "y": 613.8
+      },
+      "8_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 240.33618417193046,
+        "y": 511.7100619893266
+      },
+      "7_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 234.4648587057825,
+        "y": 458.76547355049246
+      },
+      "9_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 244.43670325623683,
+        "y": 570.787596688856
+      },
+      "44_ImportedAssets/Art_UI/0_Main Menu/_Main_Menu_Box_Small": {
+        "x": 813.095484097012,
+        "y": 383.6211419545348,
+        "idleAnimation": "shake"
+      },
+      "1_Main Menu/BGTestResize2": {
+        "x": -209,
+        "y": 0
+      },
+      "5_ImportedAssets/Art_UI/0_Main Menu/ToY_Main_Menu-28": {
+        "x": 1727,
+        "y": 916.6
+      },
+      "2_Main Menu/BGTest": {
+        "x": -2271,
+        "y": -711
+      },
+      "1_ImportedAssets/Art_UI/0_Main Menu/ToY_Main_Menu-28": {
+        "x": 304,
+        "y": 200
+      },
+      "2_ImportedAssets/Art_UI/0_Main Menu/ToY_Main_Menu-28": {
+        "x": 272,
+        "y": 178
+      },
+      "1_ImportedAssets/Art_UI/0_Main Menu/MainMenu_Logo": {
+        "x": 1168,
+        "y": 604
+      },
+      "3_ImportedAssets/Art_UI/0_Main Menu/MainMenu_Logo": {
+        "x": 1114,
+        "y": 549
+      },
+      "3_ImportedAssets/Art_UI/0_Main Menu/TECHONEKO_Logo_White2": {
+        "x": 1157,
+        "y": 588.9227365885775
+      },
+      "2_ImportedAssets/Art_UI/0_Main Menu/Logo New": {
+        "x": 218.80618417193045,
+        "y": 230.84582069840332
+      },
+      "1_Main Menu/BGTest": {
+        "x": 636,
+        "y": 359
+      },
+      "10_ImportedAssets/_Main_Menu_Box_Small": {
+        "x": 286.53000000000003,
+        "y": 636.82690988991
+      },
+      "3_ImportedAssets/TECHONEKO_Logo_White": {
+        "x": 704,
+        "y": 115
+      },
+      "2_ImportedAssets/Logo": {
+        "x": 301.952866666667,
+        "y": 218,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "9_ImportedAssets/_Main_Menu_Box_Small": {
+        "x": 288.59893912601,
+        "y": 568.8
+      },
+      "8_ImportedAssets/_Main_Menu_Box_Small": {
+        "x": 289.259866666667,
+        "y": 503.1543940986709
+      },
+      "7_ImportedAssets/_Main_Menu_Box_Small": {
+        "x": 286.5025149546901,
+        "y": 436.8323024813431
+      },
+      "6_ImportedAssets/_Main_Menu_Box_Small": {
+        "x": 280.7917643358648,
+        "y": 374.0084871418735
+      },
+      "3_ImportedAssets/MainMenu_Logo": {
+        "x": 1218.6,
+        "y": 648
+      },
+      "11_Menu/NewGame": {
+        "x": 282.7917643358648,
+        "y": 373.7084871418735,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "15_Menu/Exit": {
+        "x": 285.0572350133308,
+        "y": 634.6450025457567,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "14_Menu/SupportUs": {
+        "x": 287.07026789218764,
+        "y": 568.3680167474209,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "13_Menu/Settings": {
+        "x": 287.71667637958535,
+        "y": 502.5722039418676,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "12_Menu/Continue": {
+        "x": 285.729866666667,
+        "y": 437.03246109068965,
+        "animation": "fadeIn",
+        "frames": 30
+      },
+      "1_Menu/TitleScreenBG": {
+        "x": 649.5,
+        "y": 356
+      }
+    },
+    "map_2": {
+      "1_Menu/MainMenu": {
+        "x": -6,
+        "y": 111
+      }
+    }
+  },
+  "commonEvents": {
+    "commonEvent": {
+      "1_Menu/MainMenu": {
+        "x": 295,
+        "y": 371,
+        "animation": "left",
+        "frames": 30
+      }
+    }
+  }
+}
